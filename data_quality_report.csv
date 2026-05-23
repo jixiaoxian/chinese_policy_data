@@ -1,0 +1,13 @@
+﻿check,value
+source_file,/Users/jixiaoxian/Documents/论文/LLM&中国话语/中国话语收集list.xlsx
+policy_expression_count,70
+long_output_rows,1260
+expected_rows_3_models_70_expr_2_lang_3_tasks,1260
+missing_response_count,0
+duplicate_response_id_count,0
+missing_expression_en_count,0
+rows_ChatGPT-4o,420
+rows_Gemini-2.0-Flash,420
+rows_Grok-3,420
+rows_EN,630
+rows_ZH,630
